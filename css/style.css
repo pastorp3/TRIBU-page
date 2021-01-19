@@ -695,6 +695,12 @@ body.mobile-nav-active #mobile-nav-toggle {
   margin-top: 20px;
   padding: 0;
 }
+
+.conditions {
+  color: #958989 !important;
+  font-size: 10px !important;
+  line-height: 15px !important
+}
 /* Clients Section
 --------------------------------*/
 
